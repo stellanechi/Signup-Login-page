@@ -1,0 +1,429 @@
+/* --    CONTAINER     --*/
+.container{
+    border: 5px;
+    padding: 15px;
+    margin: 20px;
+    width: 1450px;
+    height: 850px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+
+
+/*--        SIGN-UP BOX-*/
+.signup {
+    border: 5px;
+    padding: 15px;
+    margin: 20px;
+    width: 400px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+
+
+
+/* - - - - CLASS ="TIME"              - - - */
+.time {
+    font-size: medium;
+    font-weight: bold;
+}
+
+/* - - - -  CLASS REGISTER             - - - */
+.register {
+    text-align: center;
+    font-weight: 900px;
+    font-size: 27px;
+    line-height: inherit;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+    
+
+}
+
+/* - - - -  CLASS = Get Started                - - - */
+.get-started {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* - - - Class = create  - - - */
+.create {
+    color: gray;
+}
+
+/* - - - Class = full-name  - - - */
+.full-name {
+    font-size: medium;
+    font-weight:bolder ;
+
+}
+
+/* - - - Class = joe-smith  - - - */
+ .joe-smith {
+    background-color: gainsboro;
+    color:grey;
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    padding: 1rem;
+    height: 43px;
+    width: 380px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: left;
+ }
+/* - - - Class = email-1  - - - */
+ .email-1 {
+    font-size: medium;
+    font-weight:bolder ;
+
+}
+
+/* - - - Class = email-2  - - - */
+ .email-2 {
+    background-color: rgb(228, 222, 222);
+    color:rgb(167, 163, 163);
+    border:none;
+    padding: 1rem;
+    height: 43px;
+    width: 380px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: left;
+ }
+
+
+.line-2 {
+
+}
+
+ /*-       PHONE NUMBER      -- */
+.phone-number {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.content {
+    background-color: rgb(228, 222, 222);
+    color:rgb(177, 167, 167);
+    border:none;
+    padding: 1rem;
+    height: 43px;
+    width: 380px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: left;
+    
+}
+
+
+
+
+
+
+
+/*- - - - - CLASS= last-button - - - -*/
+.last-button{
+    background-color: rgb(237, 101, 51);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 380px;
+    border-radius: 17px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.second-box
+{
+    width: 50%;
+    height: fit-content;
+    
+}
+/*- - - - - CLASS= account - - - -*/
+.account {
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+
+/*- - - - - CLASS= already-2 - - - -*/
+.already-2 {
+color:rgb(237, 101, 51) ;
+}
+
+.foot {
+    font-size: 15px;
+    font-weight: bold;
+    /*position: absolute;*/
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*--  LOGIN BOX SECTION  --*/
+
+
+
+/*--        SIGN-UP BOX-*/
+.signup_box
+{
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    width: fit-content;
+    background-color: blueviolet;
+    gap: 0.3em;
+}
+
+.contentholder
+{
+
+    height: fit-content;
+    width: fit-content;
+    background-color: aqua;
+
+    gap: 3em;
+}
+
+
+
+.img {
+    
+   margin:0 auto; 
+   align-items: center;
+   display: flex;
+}
+
+.login-box {
+    border: 5px;
+    padding: 15px;
+    margin: 20px;
+    width: 400px;
+    background-color:white;
+    border-radius: 5px;
+}
+
+.img1
+{
+    border: none;
+}
+
+.login-image
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: transparent;
+    
+} 
+/* - - - - CLASS ="TIME"              - - - */
+.time {
+    font-size: medium;
+    font-weight: bold;
+}
+
+/* - - - -  CLASS LOGIN             - - - */
+.login{
+    text-align: center;
+    font-weight: 900px;
+    font-size: 27px;
+    line-height: inherit;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+}
+
+.get-started-box2 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* - - - Class = create  - - - */
+.create-2 {
+    color: gray;
+}
+
+.mobile-1 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+/*-         EMAIL BUTTON    - -*/
+.mobile-2 {
+    background-color: rgb(228, 222, 222);
+    color:rgb(177, 167, 167);
+    border:none;
+    padding: 1rem;
+    height: 43px;
+    width: 380px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: left;
+}
+
+/* -      PASSWORD CONTENT  - */
+
+.password {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.password-content {
+    background-color: rgb(228, 222, 222);
+    color:rgb(177, 167, 167);
+    border:none;
+    padding: 1rem;
+    height: 43px;
+    width: 380px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-size: 15px;
+    text-align: left;
+}
+
+.eye{
+    color:  rgb(237, 101, 51);
+}
+
+.forgot-password {
+    font-size: small;
+    font-weight: 500;
+    text-align: left;
+}
+
+.login-button
+{
+    background-color: rgb(237, 101, 51);
+    color: white;
+    border: none;
+    height: 50px;
+    width: 380px;
+    border-radius: 17px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.footer{
+    font-size:medium;
+    font-weight: bold;
+
+    
+}
+
+.sign-up {
+    color:rgb(237, 101, 51);
+
+}
+
+.box-two{
+    text-align: center;
+    font-weight: 900px;
+    font-size: 27px;
+    line-height: inherit;
+    font-family: sans-serif;
+    letter-spacing: 0.1em;
+}
+
+.box-three {
+    border: 5px;
+    padding: 15px;
+    margin: 20px;
+    width: 400px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+
+.verification{
+    font-size: small;
+    
+}
+
+.text{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* -----  NUMBER BUTTONS ---- */  
+
+.seven {
+    background-color: white;
+    color: rgb(237, 118, 74); 
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    border-width: 1.8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 17px;
+}
+
+.four{
+    background-color: white;
+    color: rgb(237, 118, 74);  
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    border-width: 1.8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 17px;
+}
+
+.zero{
+    background-color: white;
+    color: rgb(237, 118, 74);  
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    border-width: 1.8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 17px;
+}
+
+.six{
+    background-color: white;
+    color: rgb(237, 118, 74); 
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    border-width: 1.8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 17px;
+}
+
+.one{
+    background-color: white;
+    color: rgb(237, 118, 74); 
+    border-color: rgb(237, 101, 51);
+    border-style: solid;
+    border-width: 1.8px;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 400;
+}
