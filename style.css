@@ -185,7 +185,7 @@ color:rgb(237, 101, 51) ;
     flex-direction: row;
     height: fit-content;
     width: fit-content;
-    background-color: blueviolet;
+    background-color: hsl(0, 0%, 98%);
     gap: 0.3em;
 }
 
@@ -194,7 +194,7 @@ color:rgb(237, 101, 51) ;
 
     height: fit-content;
     width: fit-content;
-    background-color: aqua;
+    background-color: hsl(0, 0%, 98%);
 
     gap: 3em;
 }
@@ -213,7 +213,7 @@ color:rgb(237, 101, 51) ;
     padding: 15px;
     margin: 20px;
     width: 400px;
-    background-color:white;
+    background-color:hsl(0, 0%, 98%);
     border-radius: 5px;
 }
 
@@ -343,7 +343,7 @@ color:rgb(237, 101, 51) ;
     padding: 15px;
     margin: 20px;
     width: 400px;
-    background-color:whitesmoke;
+    background-color:hsl(0, 0%, 98%);
     border-radius: 5px;
 }
 
